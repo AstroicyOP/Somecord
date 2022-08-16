@@ -4,7 +4,7 @@
 
 A fork of discatpy. Somecord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
-[![Discord Server invite](https://img.shields.io/discord/1008097549934145549?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/p5R5mt2kfG))
+[![Discord Server invite](https://img.shields.io/discord/1008097549934145549?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/p5R5mt2kfG)
 
 [![PyPi Version](https://img.shields.io/pypi/v/somecord.svg?style=for-the-badge&logo=pypi)](https://pypi.org/project/somecord/)
 
