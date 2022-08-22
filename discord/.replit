@@ -1,0 +1,8 @@
+language="python3"
+run = """
+pip install somecord (if somecord it uploaded on pypi)
+python main.py
+"""
+
+[packager]
+ignoredPackages=["discord.py", "discord"]
