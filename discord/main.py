@@ -1,5 +1,5 @@
 import discord
-import # Put import somecord if it's registerd on Pypi
+# import somecord
 
 bot = discord.Bot()
 
