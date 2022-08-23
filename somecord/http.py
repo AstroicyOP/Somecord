@@ -241,7 +241,7 @@ class HTTPClient:
             _log.debug("We are being ratelimited globally. Trying again in %s seconds.", delta)
 
             if delta <= 0:
-                _log.debug("Global ratelimit is over now. Skipping over this ratelimit.")
+                _log.debug("Global ratelimit is over now. Skipping over this ratelimit.") 
                 pass
 
             await asyncio.sleep(delta)
