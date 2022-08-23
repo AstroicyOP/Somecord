@@ -10,7 +10,7 @@ It may be a nice option as its "free" but you should use something else consider
 - Repl.it uses an ephemeral file system.
 - This means any file you saved via your bot will be overwritten when you next launch.
 
-**IMPORTATNT
+**IMPORTATNT**
 - They use a shared IP for everything running on the service.
 This one is important - if someone is running a user bot on their service and gets banned, everyone on that IP will be banned. Including you.**
 
